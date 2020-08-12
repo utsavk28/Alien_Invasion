@@ -3,4 +3,5 @@ Alien Invasion is basic 2D alien shooter game made with pygame and python . In t
 
 
 # Demo 
-![Image of Alien Invasion Game](C:/Users/MY PC/Pictures/alien_invasion.png)
+![alien_invasion](https://user-images.githubusercontent.com/62751545/89983628-7d617c00-dc95-11ea-9e8c-e65af6b9b94c.png)
+
