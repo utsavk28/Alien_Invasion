@@ -12,6 +12,6 @@ To get started you just need to download/pull the repositories and install the p
 Python 3.8.3
 pygame==1.9.6
 
-# Playing the Game 
+# Running the Game 
 To play/run the game 
 python main.py
